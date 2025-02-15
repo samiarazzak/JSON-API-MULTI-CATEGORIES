@@ -1,0 +1,182 @@
+[
+    {
+        "pid": 1101,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/l/a/la_protection_3_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "LA LUMIERE RADIANCE TONER",
+        "description": "Refresh, brighten, and prep your skin for a luminous glow",
+        "category": "skincare",
+        "price": 5500,
+        "reviews": {
+            "rate": 4.5,
+            "count": 15
+        }
+    },
+    {
+        "pid": 1102,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/l/a/la_protection_3__1.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "LA PROTECTION SUN PROTECTION CREAM",
+        "description": "Your daily dose of hydration, radiance, and SPF 25 protection in one luxurious cream",
+        "category": "skincare",
+        "price": 4500,
+        "reviews": {
+            "rate": 4.5,
+            "count": 20
+        }
+    },
+    {
+        "pid": 1103,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/l/a/la_esduction_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "LA SEDUCTION ANTI AGING SERUM",
+        "description": "Wake up to a radiant, rejuvenated, and ageless you.",
+        "category": "skincare",
+        "price": 4400,
+        "reviews": {
+            "rate": 4.3,
+            "count": 12
+        }
+    },
+    {
+        "pid": 1104,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/f/o/foot_cream_3_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "INTENSE CARE FOOT CREAM",
+        "description": "For general skincare only. Not for treating skin conditions. Patch test recommended",
+        "category": "skincare",
+        "price": 6400,
+        "reviews": {
+            "rate": 3.3,
+            "count": 10
+        }
+    },
+    {
+        "pid": 1105,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/l/a/la_perfection_resized_2_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "LA PERFECTION HYDRATING SERUM",
+        "description": "Hydrates, brightens, and evens skin tone for a radiant, youthful glow.",
+        "category": "skincare",
+        "price": 6400,
+        "reviews": {
+            "rate": 5.3,
+            "count": 10
+        }
+    },
+    {
+        "pid": 1106,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/c/h/chlbt-001-bchelsea_boots_coffee_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755",
+        "title": "CHELSEA BOOTS - COFFEE MEN BOOTS",
+        "description": "These Chelsea boots come in waxed cow leather, which complements its sleek, elongated design",
+        "category": "FOOTWEAR",
+        "price": 6400,
+        "reviews": {
+            "rate": 5.3,
+            "count": 10
+        }
+    },
+    {
+        "pid": 1107,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/m/c/mcsn-001-mocassins-plog_1_.jpg?width=373&height=560&canvas=373,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "MOCASSINS PLOG - BLACK MEN SHOES",
+        "description": "Since its debut, this ace loafer has become a mainstay of the collection's narrative",
+        "category": "FOOTWEAR",
+        "price": 4400,
+        "reviews": {
+            "rate": 5.3,
+            "count": 15
+        }
+    },
+    {
+        "pid": 1108,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/c/c/ccmfw-sndl-004-boga-slides_1_.jpg?width=373&height=560&canvas=373,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "BOGA SLIDES - BLACK MEN SANDALS",
+        "description": "Since its debut, this ace loafer has become a mainstay of the collection's narrative",
+        "category": "FOOTWEAR",
+        "price": 2400,
+        "reviews": {
+            "rate": 5.3,
+            "count": 12
+        }
+    },
+    {
+        "pid": 1109,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/l/f/lfr-002a-summer-satiua_1_.jpg?width=373&height=560&canvas=373,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "SUMMER SATIUA - BLACK MEN LOAFERS",
+        "description": "Supple textured suede leather complements the casual-chic design of these loafers",
+        "category": "FOOTWEAR",
+        "price": 3400,
+        "reviews": {
+            "rate": 4.3,
+            "count": 22
+        }
+    },
+    {
+        "pid": 1110,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/k/n/knights_-_navy_men_sandals_303_1_.jpg?width=373&height=560&canvas=373,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "KNIGHTS - NAVY MEN SANDALS",
+        "description": "Step confidently into any occasion with the KNIGHTS - Peshawari Sandals",
+        "category": "FOOTWEAR",
+        "price": 6400,
+        "reviews": {
+            "rate": 5.2,
+            "count": 12
+        }
+    },
+    {
+        "pid": 1111,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/2/5/25-099_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "BEIGE TOTE BAG | JJBL-25-099",
+        "description": "Due to the photographic lighting & different screen calibrations",
+        "category": "HAND_BAGS",
+        "price": 6500,
+        "reviews": {
+            "rate": 4.5,
+            "count": 11
+        }
+    },
+    {
+        "pid": 1112,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/2/5/25-102_2_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "BLACK SIDE BAG | JJBL-25-102",
+        "description": "the colors of the original product may slightly vary from the picture",
+        "category": "HAND_BAGS",
+        "price": 5500,
+        "reviews": {
+            "rate": 3.5,
+            "count": 15
+        }
+    },
+    {
+        "pid": 1113,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/2/5/25-091_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "OFF WHITE CLUTCH | JJBL-25-091",
+        "description": "PRINTED COLORFUL",
+        "category": "HAND_BAGS",
+        "price": 3600,
+        "reviews": {
+            "rate": 4.5,
+            "count": 25
+        }
+    },
+    {
+        "pid": 1114,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/2/5/25-093_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "BLACK HANDBAG | JJBL-25-093",
+        "description": "photographic lighting",
+        "category": "HAND_BAGS",
+        "price": 5600,
+        "reviews": {
+            "rate": 4.5,
+            "count": 15
+        }
+    },
+    {
+        "pid": 1115,
+        "image": "https://www.junaidjamshed.com/media/catalog/product/2/5/25-096_1_.jpg?width=436&height=560&canvas=436,560&optimize=medium&bg-color=255,255,255&fit=bounds",
+        "title": "BROWN HANDBAG | JJBL-25-096",
+        "description": "UNIQUE STYLE",
+        "category": "HAND_BAGS",
+        "price": 7600,
+        "reviews": {
+            "rate": 5.5,
+            "count": 10
+        }
+    }
+]
